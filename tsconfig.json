@@ -18,9 +18,8 @@
     "incremental": true,
     "jsx": "preserve",
     "paths": {
-      "@/*": [
-        "./components/*"
-      ]
+      "@/*": ["./app/*"],
+      "@/components": ["./components"]
     },
     "resolveJsonModule": true,
     "isolatedModules": true,
