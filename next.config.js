@@ -3,6 +3,7 @@ const nextConfig = {
   images: {
     domains: ['media.licdn.com'],
   },
+  outputFileTracingRoot: __dirname,
 }
 
 module.exports = nextConfig
