@@ -1,1 +1,15 @@
-node_modules
+# Next.js
+.next/
+out/
+build/
+dist/
+
+# TypeScript
+*.tsbuildinfo
+
+# Dependencies
+node_modules/
+
+# Misc
+.DS_Store
+*.log
